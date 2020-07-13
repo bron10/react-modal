@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/bron10/react-modal.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": ["bron10"],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bron10/react-modal/issues"
   },
